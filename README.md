@@ -1,19 +1,10 @@
 # C++
 Learning C++
 
-<details>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-</details>
-
 ## Contents:
-<details>
-* <summary>[Introduction](https://github.com/YahyaHussain/Cpp/tree/main#introduction)</summary>
-<br>
+* [Introduction](https://github.com/YahyaHussain/Cpp/tree/main#introduction)
 * [What makes C++ Unique?](https://github.com/YahyaHussain/Cpp/tree/main#what-makes-c-unique)
 * [What is C++ used for?](https://github.com/YahyaHussain/Cpp/tree/main#what-is-c-used-for)
-</details>
 
 ## Introduction
 
